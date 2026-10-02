@@ -1,0 +1,19 @@
+{
+  "models": {
+    "astra": "gpt-6-astra",
+    "sol": "gpt-6.1-sol",
+    "luna": "gpt-6-luna"
+  },
+  "reasoning_effort": {
+    "astra": "medium",
+    "sol": "medium",
+    "luna": "low"
+  },
+  "allocation": {
+    "sols": 1,
+    "lunas_per_sol": 5,
+    "direct_lunas": 1,
+    "max_agents": 15
+  },
+  "profile": null
+}

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="banner-title banner-desc">
+  <title id="banner-title">MOZGLO Orchestrator</title>
+  <desc id="banner-desc">A restrained dark banner for MOZGLO Orchestrator. Astra leads to Sol, then Luna, alongside an abstract connected-node diagram.</desc>
+  <rect width="1200" height="320" fill="#20272b"/>
+  <path d="M0 0h1200v5H0z" fill="#79b9c2" opacity=".72"/>
+  <g fill="none" stroke="#79b9c2" stroke-width="2">
+    <path d="M782 160h84l52-52h78m-130 52 52 52h78m-130-52h130" opacity=".7"/>
+    <path d="M996 108h65m-65 104h65m-65-52h65" opacity=".32"/>
+  </g>
+  <g fill="#20272b" stroke="#79b9c2" stroke-width="2.5">
+    <circle cx="782" cy="160" r="7"/><circle cx="866" cy="160" r="7"/>
+    <circle cx="918" cy="108" r="7"/><circle cx="918" cy="212" r="7"/>
+    <circle cx="996" cy="108" r="5"/><circle cx="996" cy="160" r="5"/><circle cx="996" cy="212" r="5"/>
+    <circle cx="1061" cy="108" r="5"/><circle cx="1061" cy="160" r="5"/><circle cx="1061" cy="212" r="5"/>
+  </g>
+  <circle cx="782" cy="160" r="3" fill="#f1eee5"/>
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
+    <text x="88" y="105" fill="#f1eee5" font-size="18" font-weight="600" letter-spacing="5">MOZGLO</text>
+    <text x="84" y="171" fill="#f1eee5" font-size="58" font-weight="650" letter-spacing="1.5">ORCHESTRATOR</text>
+    <text x="89" y="218" fill="#79b9c2" font-size="19" font-weight="500" letter-spacing=".6">Astra  →  Sol  →  Luna</text>
+    <text x="89" y="270" fill="#b8c0bf" font-size="14" font-weight="400" letter-spacing="1.1">Plan. Delegate. Verify.</text>
+  </g>
+</svg>
